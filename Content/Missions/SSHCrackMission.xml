@@ -1,0 +1,44 @@
+﻿<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="sshcrack01">
+  <goals>
+    <goal type="FileDownload" target="portcrack01" file="SSHcrack.exe" path="bin" />
+  </goals>
+  <missionEnd val="0">transitionToBitMissions</missionEnd>
+  <nextMission>NONE</nextMission>
+  <branchMissions>
+    <branch>BitMission2.xml</branch>
+  </branchMissions>
+  <email>
+    <sender>Bit</sender>
+    <subject>Gromadzenie razem kilku narzędzi</subject>
+    <body>
+Wspaniale - to powinno zapewnić ci na razie bezpieczeństwo! Przynajmniej z twojego komputera...
+Zanim zaczniemy, będziesz potrzebował kilku rzeczy - sam PortHack nie wystarczy na większość nowoczesnych komputerów, które znajdziesz... Nie takich, na które i tak nie warto patrzeć.
+      
+Powinieneś zacząć od sprawdzenia mojego przyjaciela - mówią na niego "Viper" - Okropne, wiem. On nie jest... szczerze mówiąc, nie jest najjaśniejszą kredką w pudełku, ale zawsze wydaje się mieć użyteczny kod.
+Nie powinieneś mieć problemów z dostaniem się do jego plików - znalezienie czegoś użytecznego może być trochę większym wyzwaniem.
+
+Możesz zasadniczo zignorować the 'ogólne' pliki - to pliki, które są rejestrowane lub zapisywane przez programy; Logi IRC i temu podobne. Niestandardowo nazwy rzeczy jak pliki *.exe są tym, za czym się rozglądasz. 
+Pobierz dowolne pliki, których możesz użyć za pomocą polecenia "scp".
+
+Powodzenia - odpowiedz ponownie, gdy skończysz!
+      
+--Bit
+0
+      
+    </body>
+    <attachments>
+      <link comp="portcrack01" />
+      <note title="Szybki Arkusz Referencyjny Hackneta">Szybki Przewodnik Informacyjny
+      
+Analizuj systemy bezpieczeństwa za pomocą "probe".
+Używaj "porthack", aby łamać aktywne zabezpieczenia.
+
+Skanuj w poszukiwaniu sąsiednich węzłów za pomocą "scan"
+Czyść logi w folderze ~/log używając "rm [NAZWAPLIKU lub *]"
+
+Pobieraj pliki za pomocą polecenia "scp [NAZWAPLIKU]"
+      </note>
+    </attachments>
+  </email>
+</mission>

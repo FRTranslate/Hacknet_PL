@@ -1,0 +1,45 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="bitMission00">
+  <goals>
+    <goal type="getAdmin" target="bitMission00"/>
+  </goals>
+  <missionStart val="7">changeSong</missionStart>
+  <nextMission>BitMission1.xml</nextMission>
+  <branchMissions>
+    <branch>BitMission2.xml</branch>
+  </branchMissions>
+  <email>
+    <sender>Bit</sender>
+    <subject>Dziewiczy lot</subject>
+    <body>Gratulacje!
+Szczerze mówiąc nie mam pojęcia, czy udało ci się z tym respondentem, ale jeśli to widzisz, to znaczy, że przynajmniej znalazłeś COŚ. Zakładam, że jest to coś naprawdę użytecznego.
+
+Powinieneś spróbować złamać jeden z moich starych serwerów testowych - jeśli Viper miał coś, z czego jest znany, co pozwala mu się wylegiwać, to powinieneś mieć wszystko, czego potrzebujesz, aby się tam dostać.
+Pamiętaj, że każdy nie podstawowy program, który dostaniesz, potrzebuje numeru portu do uruchomienia - jak ten:
+
+>SSHCrack 22
+ ^nazwapliku ^numerportu
+     
+Po prostu znajdź port, który chcesz złamać i uruchom go na tym.
+
+Oh, a jeśli jeszcze nie wiesz, możesz wcisnąć zakładkę do autokompletacji komend - wciśnięcie "ssh" powinno spowodować autokompletację do pełnej nazwy, itp.  Działa na wszystko!
+
+Powodzenia!
+
+--Bit
+0
+      
+    </body>
+    <attachments>
+      <note title="Poradnik Podstaw Bezpieczeństwa">Podstawy Bezpieczeństwa
+      
+Użyj "Probe", aby zobaczyć, które porty są otwarte.
+Namierz jeden z nich za pomocą programu i wybierz odpowiedni port
+Na przykład: "SSHCrack 22"
+      ^nazwapliku ^numerportu
+Złamanie wystarczającej ilości portów powoduje, że cel jest podatny na złamanie zabezpieczeń za pomocą "Porthack".
+      </note>
+      <link comp="bitMission00" />
+    </attachments>
+  </email>
+</mission>
