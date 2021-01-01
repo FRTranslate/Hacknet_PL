@@ -10,11 +10,11 @@ B/D
 
 - Font12
 
-Błąd synchornizacji ze steamcloud w menu głównym
+"Błąd synchornizacji ze steamcloud" w menu głównym w czcionce default
 
 - Font14
 
-B/D
+"Błąd synchornizacji ze steamcloud" w menu głównym w czcionce medium
 
 - Font16
 
