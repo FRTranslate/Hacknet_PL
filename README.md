@@ -22,4 +22,4 @@ B/D
 
 - Font23
 
-B/D
+Opcje i napis "rozdzielczość"
