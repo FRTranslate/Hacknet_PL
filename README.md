@@ -2,7 +2,7 @@
 
 - Font7
 
-B/D
+in game "Wykryto proxy"
 
 - Font10
 
