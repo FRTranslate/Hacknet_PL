@@ -2,11 +2,11 @@
 
 - Font7
 
-in game "Wykryto proxy"
+B/D
 
 - Font10
 
-B/D
+Opcje lub "wyjdź" w menu w menu głównym w czcionce default
 
 - Font12
 
