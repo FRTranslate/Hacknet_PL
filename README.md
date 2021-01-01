@@ -18,7 +18,7 @@ B/D
 
 - Font16
 
-B/D
+"Błąd synchornizacji ze steamcloud" w menu głównym w czcionce large
 
 - Font23
 
