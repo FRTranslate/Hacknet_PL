@@ -1,3 +1,8 @@
+# Ogólne info
+
+Spolszczenie powstało na bazie gry w wersji 5.069
+
+
 # Fonty
 
 - Font7
