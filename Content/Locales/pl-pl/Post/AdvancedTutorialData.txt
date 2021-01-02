@@ -1,0 +1,180 @@
+<#
+Od teraz jesteś w narażony na ryzyko!
+#>
+Ucz się tak szybko, jak to możliwe. Rozpocznij sekwencję samouczka, naciskając przycisk kontynuuj poniżej.
+
+%&%&%&%
+Połącz się z komputerem, wpisując „connect [IP]” w terminalu - lub klikając węzeł na mapie sieci.
+<#
+Połącz się z własnym komputerem
+#>
+Kliknij na mapie w zielone koło.
+
+%&%&%&%
+Dobra robota.
+ 
+Pierwszą rzeczą do zrobienia w dowolnym systemie jest skanowanie go w poszukiwaniu sąsiednich węzłów. Ujawni to więcej komputerów na twojej mapie, których możesz użyć.
+
+<#
+Zeskanuj teraz ten komputer
+#>
+
+naciskając przycisk Skanuj Sieć na module wyświetlacza.
+
+%&%&%&%
+To powinno być wszystko, czego na razie potrzebujesz z twojego serwera.
+<#
+Odłącz się od swojej maszyny
+#>
+
+
+%&%&%&%
+Już czas na połączenie się z zewnętrznym komputerem.
+ 
+Pamiętaj, że próba narażenia bezpieczeństwa innego komputera jest nielegalna wg. ustawy 1030–18  USA.
+ 
+Kontynuuj na własne ryzyko i
+<#
+połącz się z maszyną zewnętrzną
+#>
+klikając niebieski węzeł na mapie sieci.
+
+
+%&%&%&%
+Ten moduł terminala Maszyny Wirtualnej został aktywowany. Będzie to podstawowy interfejs do nawigacji i interakcji z węzłami.
+ 
+Komendy mogą być uruchamiane przez wpisanie ich i wciśnięcie ENTERa.
+ 
+Systemy bezpieczeństwa komputera i otwarte porty mogą być analizowane poprzez użycie komendy
+<#
+probe
+#>
+(lub "nmap"). Przeanalizuj komputer, do którego jesteś obecnie podłączony.
+
+
+%&%&%&%
+Tutaj możesz zobaczyć aktywne porty, aktywne zabezpieczenia i liczbę otwartych portów wymaganych do pomyślnego włamania się do tej maszyny za pomocą PortHack.
+Ta maszyna nie ma aktywnych zabezpieczeń i nie wymaga żadnych otwartych portów do złamania. Jeśli jesteś na to przygotowany, możliwe jest złamanie tego komputera za pomocą programu "PortHack".
+ 
+<#
+Uruchom program PortHack
+#>
+|Aby uruchomić własny program na komputerze, z którym jesteś połączony, wpisz nazwę programu jako polecenie w terminalu.
+
+
+Nazwa programu nigdy nie wymaga ".exe na końcu"
+ 
+
+%&%&%&%
+Gratulacje, przejąłeś kontrolę nad zewnętrznym systemem i teraz jesteś jego
+Administratorem. Możesz zrobić z nim co tylko chcesz, jednakże powinieneś zacząć od
+<#
+Skanowanie w poszukiwaniu lokalnych węzłów
+#>
+aby zlokalizować dodatkowe komputery. Zrób to za pomocą polecenia "Scan".
+
+
+%&%&%&%
+Żadnych wyników - nie ma problemu.
+
+Zatem należy zbadać system plików.
+<#
+Wyświetl pliki i foldery w bieżącym katalogu
+#>
+ 
+
+|Wyświetl pliki i foldery za pomocą polecenia "ls".
+ 
+Moduł Display został ponownie aktywowany do użycia z tym poleceniem.
+
+
+%&%&%&%
+<#
+Przejdź do folderu "bin"
+#>
+aby poszukać użytecznych plików wykonywalnych za pomocą polecenia 
+ 
+"cd [NAZWA FOLDERU]"
+
+(Zwróć uwagę na spację)
+
+
+%&%&%&%
+By przejrzeć zawartość bieżącego folderu użyj komendy "ls".
+ 
+
+Nie ma tu żadnych programów, ale powinieneś
+<#
+sprawdzić config.txt
+#>
+czy zawiera przydatne informacje.
+ 
+|Odczytaj zawartość dowolnego pliku za pomocą polecenia "cat" na przykład:
+ 
+"cat config.txt"
+   
+UWAGA: Odczytywanie danych bez zezwolenia jest niezgodne z prawem i podlega karze więzienia, jeśli zostanie wykryte zgodnie z prawem międzynarodowym.
+ 
+
+
+%&%&%&%
+Kompletnie bezużyteczne!
+  
+Teraz, zanim wyjdziesz, usuń swoje ślady.
+<#
+Przejdź w górę w drzewie folderów
+#>
+używając "cd .."
+ 
+Wskazówka: fraza ".." oznacza  'Wstecz' lub 'W górę'.
+ 
+
+
+%&%&%&%
+<#
+Przejdź do folderu z logami.
+#>
+"cd [NAZWA FOLDERU]"
+
+
+%&%&%&%
+<#
+Usuń wszystkie pliki w tej lokalizacji
+#>
+ 
+Plik można usunąć za pomocą polecenia 
+<#
+rm [NAZWA PLIKU]
+#>
+jednakże możesz usunąć WSZYSTKIE pliki w bieżącej lokalizacji za pomocą komendy 
+ 
+<#
+rm *
+#>
+ 
+Wskazówka: fraza "*" oznacza "Wszystkie".
+
+
+%&%&%&%
+Doskonała robota.
+ 
+<#
+Odłącz się od tego komputera
+#>
+ 
+Możesz tego dokonać za pomocą komendy "dc" lub "disconnect"
+
+
+%&%&%&%
+Gratulacje, ukończyłeś instruktażową część tego samouczka.
+ 
+<#
+Aby go zakończyć, musisz zlokalizować ID procesu tego programu samouczka i zabić go.
+#>
+ 
+Komenda "help" pokaże ci kompletną listę komend w dowolnym momencie.  
+ 
+|Komenda "ps" wyświetli listę PID każdego aktualnie uruchomionego procesu.
+
+
+%&%&%&%

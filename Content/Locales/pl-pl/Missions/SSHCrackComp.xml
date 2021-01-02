@@ -1,0 +1,150 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<Computer id="portcrack01" name="Viper-Battlestation" security="0" type="4">
+
+  <dlink target="viperScanEarlyGame" />
+  
+  <file path="bin" name="SSHcrack.exe">#SSH_CRACK#</file>
+  <file path="home" name="Youtubers.txt" >
+YouTuberzy do sprawdzenia: 
+
+captainspinifex
+rockleesmile
+northernlion
+officialcalemgames
+jonathancrowgamer
+
+  </file>
+  <file path="home" name="Notes.txt" >
+    W końcu udało mi się torrentować ten słodki nowy program haxxerski z serwera, o którym opowiadał mi Gollum - to takie chore!
+
+    Nie mogę się doczekać, aby go wypróbować - po prostu muszę najpierw dowiedzieć się, jak go używać
+  </file>
+  <file path="home" name="asdf.txt" >
+    Induction test?
+    199.59.149.230
+    Proxy server
+    
+    ..
+    Potrzebujesz czegoś na temat przeładowania?
+    Muszę to więcej badać. Może jest jakiś program, który pomoże? Poprosi o więcej pieniędzy..
+  </file>
+  <file path="home" name="EmailDraft.txt" >
+    Tata,
+    Przepraszam, że nie wysłałem Ci e-maila od jakiegoś czasu - byłem bardzo zajęty szkołą - 11 rok jest trudny, ale myślę, że mam się dobrze.
+    Naprawdę chciałem poprosić o małą pomoc - potrzebuję nowego oprogramowania do projektu szkolnego. Nazywa się „FTPBounce.exe”. To naprawdę przydatne! Będzie to jednak dużo kosztować i zabrakło mi pieniędzy, które mi przysłałeś ostatnim razem - całe to oprogramowanie do projektów IT jest naprawdę drogie.
+    Czy jest szansa, że ​​możesz wysłać kolejne 2000 $ na moje konto? To by naprawdę pomogło.
+
+    Dzięki!
+    Kocham Cię,
+    Tim
+  </file>
+  
+  <file path="home/work" name="jasperlog.txt" >
+[viper] masz te klucze, o które prosiłem?
+[jasper] masz kasę?
+[viper] przygotowałem się do podłączenia
+[jasper] Wysłałem pierwszą połowę na serwer. Kiedy transfer zostanie zakończony, dostaniesz resztę.
+[viper] fajnie, sprawdzam
+[viper] niesamowite, działają.
+[jasper] mogę teraz dostać moje pieniądze?
+[viper] wysłane
+[jasper] odebrane. Kto by pomyślał, że call of soldier będzie tak popularne w tym roku.
+[viper] Najgorętsza rzecz tego roku.
+[jasper] gracze.
+  </file>
+  
+  <file path="home/work" name="TARGET.txt" EduSafe="false">
+[viper] Chcę zwrotu pieniędzy.
+[cs#1575] Przykro mi, sir, ale nie możemy zwrócić pieniędzy na podstawie zmiany zdania.
+[cs#1575] Czy mogę zasugerować ponowne umieszczenie tego przedmiotu na J-Bayu?
+[viper] Nie chcę wystawiać przedmiotu na twojej przeklętej stronie aukcyjnej.
+[viper] Mówiłem ci, że przypadkowo nacisnąłem przycisk licytowania zamiast przycisku zegarka
+[cs#1575] Tak mi przykro, sir, ale nasza polityka nie obejmuje przypadkowego naciśnięcia przycisku.
+[cs#1575] Musisz więc zaakceptować, że Penetrator 9000 jest twój, lub możesz spróbować zrekompensować koszty za pomocą naszych list aukcyjnych.
+[viper] Zadarłeś z niewłaściwym klientem. prawię, że będziesz ryczał tego dnia.
+[cs#1575] Dziękuję panu i życzę miłego wieczoru.  
+  </file>
+  
+    <file path="home/work" name="ripped_prerelease.log" EduSafe="false">
+[glaylor] ZJEBAŁEŚ TO
+[glaylor] 18 MIESIĘCY DEV TIME'U
+[glaylor] 3 MILIONY DOLARÓW
+[glaylor] DLA GRY O OGLĄDANIU EKRANÓW TELEFONÓW KOMÓRKOWYCH
+[glaylor] ..................
+[glaylor] KUUUUUUUUUUUUUUUUUUUUUURRRWWWWWWWWWW
+[hoops] Whoa, uspokój się człowieku, ludzie będą to kochać.
+[hoops] To jest jak, stwierdzenie, o stanie tego słowa.
+[hoops] Jak na przykład, czy ostatnio przechodziłeś się późno ulicą?
+[hoops] Ludzie zawsze mają zakopane głowy w telefonach, nawet tego nie zauważają.
+[hoops] Więc zrobiliśmy grę, w której ty prowadzisz, chodzisz, strzelasz i hakujesz, ciągle patrząc na ich telefony.
+[hoops] To genialne.
+[glaylor] Zarząd będzie chciał za to moją dupę.
+[glaylor] Lepiej dajmy temu dobrą nazwę.
+[glaylor] I trochę hardcorowych grafik.
+[glaylor] I dodaj trochę kwiecistych efektów. To zawsze przyciąga dzieci.
+  </file>
+  
+  <file path="home/work" name="ripped_prerelease.log" EduSafeOnly="true">
+[glaylor] SPIEPRZYŁEŚ TO
+[glaylor] 18 MONTHS DEV TIME
+[glaylor] 3 MILIONY DOLARÓW
+[glaylor] DLA GRY O OGLĄDANIU EKRANÓW TELEFONÓW KOMÓRKOWYCH
+[glaylor] ..................
+[glaylor] AHHHHHHHHHHHHHHHHHHHHHHHHHHH
+[hoops] Whoa, uspokój się człowieku, ludzie będą to kochać.
+[hoops] To jest jak, stwierdzenie, o stanie tego słowa.
+[hoops] Jak na przykład, czy ostatnio przechodziłeś się późno ulicą?
+[hoops] Ludzie zawsze mają zakopane głowy w telefonach, nawet tego nie zauważają.
+[hoops] Więc zrobiliśmy grę, w której ty prowadzisz, chodzisz, strzelasz i hakujesz, ciągle patrząc na ich telefony.
+[hoops] To genialne.
+[glaylor] Zarząd będzie chciał za to moją dupę.
+[glaylor] Lepiej dajmy temu dobrą nazwę.
+[glaylor] I trochę hardcorowych grafik.
+[glaylor] I dodaj trochę kwiecistych efektów. To zawsze przyciąga dzieci.
+  </file>
+  
+  <file path="home/work" name="seb.txt" EduSafe="false">
+[viper] Jak poszło?
+[lilsebastian] To był koszmar.
+[viper] Dlaczego?
+[lilsebastian] Spędziliśmy noc na czuwaniu. To było super romantyczne.
+[lilsebastian] Potem zaczęliśmy się śmiać.
+[lilsebastian] Potem zaczęliśmy się wygłupiać, wiesz.
+[lilsebastian] A potem, er...
+[viper] Co?
+[viper] Wyrzuć to z siebie.
+[lilsebastian] To err, zakończyło się wcześniej niż się spodziewałem. Na przykład. Ubrania nadal są włożone jak wcześniej.
+[viper]......
+[viper]......
+[viper] HAHAHAHAHAHHAHAHAHAHAHHAA
+[lilsebastian] Zamknij się.
+[viper] Stary, Boże stary, nigdy więcej się do tego nie przyznawaj.
+[viper] Masz szczęście, że jesteśmy przyjaciółmi, bo inaczej opowiedziałbym wszystkim tę historię.
+[viper] Tak czy inaczej, muszę iść. Mam więcej kodu do zrobienia. 
+[lisebastian] W porządku. Do zobaczenia jutro w szkole.
+[viper] Nie idź tam za wcześnie. 
+  </file>
+  
+  <eosDevice name="ePhone 4S Tima">
+    <note>NUMERY PORTÓW
+Przeglądarki internetowe i usługi sieciowe: 80 (8080 czasami?)
+SSH: 22 (####program do tego)
+FTP: 21
+SQL: 1433
+    </note>
+    <note>entropia
+jakaś grupa hakerów?
+wydaje się trochę mały i niewiele wiadomości na ich temat?
+Tyle że slashbot ich nienawidzi z jakiegoś powodu?
+„znajdź i pobij nasz serwer testowy” - jak?
+Wiadomość na forum nie ma innych szczegółów?
+
+Może gdzieś być indeksowany? Znajdź rejestr sieci i wyszukaj entropię?
+    </note>
+    <note>daves
+H22 do stacji Westfield (stop 22)
+4:25 - 5:12
+4:55 e.30m
+    </note>
+  </eosDevice>
+</Computer>
