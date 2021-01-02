@@ -6,34 +6,34 @@
   <nextMission>Entropy/EntropyMission1.1Delayer.xml</nextMission>
   <email>
     <sender>Bit</sender>
-    <subject>Where to from here</subject>
+    <subject>Dokąd stąd</subject>
     <body>
-Alright! If you see this, then you've done well and... well, all this might actually be worth something.
-Is that too much to hope for? It seems like a lot to hope for.
+W porządku! Jeśli to widzisz, to zrobiłeś wszystko jak należy i... cóż, to wszystko może być coś warte.
+Czy liczę na zbyt wiele? Chyba liczę na zbyt wiele...
 
-I've realized that I just don't have time to write this whole thing - there's way too much to learn, and I don't have time to do any of it. So, I'm going to need to ask something more. 
+Zdałem sobie sprawę, że po prostu nie mam czasu na pisanie tego wszystkiego - jest o wiele za dużo do nauki, a ja nie mam czasu na nic z tego. Więc, będę musiał prosić o coś więcej. 
 
-There's a group that goes by 'Entropy' that's currently accepting members. They'll be able to teach you more. When you're ready, I'll contact you again.
-As for getting into Entropy, you'll need to bypass a proxy server - a few shells (open using the command "shell") running on computers you've already got admin access on should be able to overload it.
+Jest grupa, która nazywa się "Entropia" i obecnie przyjmuje członków. Będą w stanie nauczyć cię więcej. Kiedy będziecie gotowi, skontaktuję się z wami ponownie.
+Jeśli chodzi o wejście do Entropii, musisz ominąć serwer proxy - kilka powłok (otwieranych za pomocą komendy "shell") działających na komputerach, do których masz już dostęp administratora, powinno być w stanie go przeciążyć.
 
-Good luck...
-and thankyou,
+Powodzenia...
+oraz dziękuję,
 
 --Bit
 0
 
-P.S: I almost forgot, if you run into trouble, I've linked the network education archives server too - it's got a lot of useful info on it.
+P.S: Prawie zapomniałem, jeśli wpakujesz się w kłopoty, załączyłem też adres do serwera archiwów edukacyjnych - jest na nim wiele przydatnych informacji.
     </body>
     <attachments>
-      <note title="Proxy Server Info">A few notes on Proxy servers - a classic Entropy challenge.
+      <note title="Informacje o serwerach Proxy">Kilka notatek dotyczących serwerów Proxy - klasycznego wyzwania Entropii.
 
-Run shells on computers you have admin access to with "Shell".
+Uruchom powłoki na komputerach, do których posiadasz już dostęp administracyjny z komendą "Shell".
 
-Connect to a target computer, probe it's security.
+Połącz się do komputera celu i zbadaj jego zabezpieczenia (probe).
 
-Use the shells to overload target proxy.
+Użyj powłok, by przeciążyć proxy celu.
 
-NetEdu Archives will have more details.
+Archiwa NetEdu będą zawierać więcej detali.
       </note>
       <link comp="netEduComp" />
       <link comp="bitMission02" />
