@@ -5,7 +5,7 @@
   
   <file path="bin" name="SSHcrack.exe">#SSH_CRACK#</file>
   <file path="home" name="Youtubers.txt" >
-YouTuberzy do sprawdzenia: 
+youtubers to check out: 
 
 captainspinifex
 rockleesmile
@@ -15,134 +15,116 @@ jonathancrowgamer
 
   </file>
   <file path="home" name="Notes.txt" >
-    W końcu udało mi się torrentować ten słodki nowy program haxxerski z serwera, o którym opowiadał mi Gollum - to takie chore!
-
-    Nie mogę się doczekać, aby go wypróbować - po prostu muszę najpierw dowiedzieć się, jak go używać
+Hab es endlich geschafft das schicke neue haxxor Programm von dem Server zu angeln, von dem Gollum geredet hat - so geil!
+Kann's kaum erwarten, es auszuprobieren - muss nur herausfinden, wie man es verwendet.
   </file>
   <file path="home" name="asdf.txt" >
     Induction test?
     199.59.149.230
     Proxy server
-    
-    ..
-    Potrzebujesz czegoś na temat przeładowania?
-    Muszę to więcej badać. Może jest jakiś program, który pomoże? Poprosi o więcej pieniędzy..
+
+    ...
+
+Brauche ich vielleicht etwas, um ihn zu überladen?
+Muss ich mich nochmal erkundigen. Vielleicht gibt es dafür ein Programm? Ich frag nochmal nach Geld..
   </file>
   <file path="home" name="EmailDraft.txt" >
-    Tata,
-    Przepraszam, że nie wysłałem Ci e-maila od jakiegoś czasu - byłem bardzo zajęty szkołą - 11 rok jest trudny, ale myślę, że mam się dobrze.
-    Naprawdę chciałem poprosić o małą pomoc - potrzebuję nowego oprogramowania do projektu szkolnego. Nazywa się „FTPBounce.exe”. To naprawdę przydatne! Będzie to jednak dużo kosztować i zabrakło mi pieniędzy, które mi przysłałeś ostatnim razem - całe to oprogramowanie do projektów IT jest naprawdę drogie.
-    Czy jest szansa, że ​​możesz wysłać kolejne 2000 $ na moje konto? To by naprawdę pomogło.
+  
+Hey Papa,
+entschuldige, habe dir schon lange keine Email mehr geschickt - War ziemlich mit der Schule beschäftigt - die 11. Klasse ist ganz schön schwer; denke aber, ich komm durch.
+Wollte dich eigentlich um Hilfe bitten - Ich würde eine neue Software für ein Schulprojekt benötigen. Der Name lautet 'FTPBounce.exe'. Es ist wirklich wichtig! Allerdings kostet es ein Vermögen und mir ist das Geld ausgegangen, das du mir letztens geschickt hast - jede Software für dieses IT-Projekt ist schweineteuer.
+Besteht die Chance, dass du mir weitere 2000€ auf mein Konto überweist? Es würde mir wirklich weiterhelfen.
 
-    Dzięki!
-    Kocham Cię,
-    Tim
+Danke!
+Hab dich lieb,
+  Tim
   </file>
   
   <file path="home/work" name="jasperlog.txt" >
-[viper] masz te klucze, o które prosiłem?
-[jasper] masz kasę?
-[viper] przygotowałem się do podłączenia
-[jasper] Wysłałem pierwszą połowę na serwer. Kiedy transfer zostanie zakończony, dostaniesz resztę.
-[viper] fajnie, sprawdzam
-[viper] niesamowite, działają.
-[jasper] mogę teraz dostać moje pieniądze?
-[viper] wysłane
-[jasper] odebrane. Kto by pomyślał, że call of soldier będzie tak popularne w tym roku.
-[viper] Najgorętsza rzecz tego roku.
-[jasper] gracze.
+[viper] Hast du die Keys nach denen ich gefragt habe?
+[jasper] Hast du das Geld?
+[viper] bin gerade dabei es zu überweisen
+[jasper] Habe die erste hälfte auf den Drop-Server hochgeladen. Wenn das Geld da ist bekommst du den Rest.
+[viper] cool. werde ich gleich testen.
+[viper] Wahnsinn. Sie funktionieren!
+[jasper] kann ich jetzt mein Geld haben?
+[viper] überwiesen
+[jasper] erhalten. Wer hätte gedacht, dass Call of Soldier dieses Jahr noch so beliebt wird?
+[viper] geilstes Spiel dieses Jahr
+[jasper] gamer.
   </file>
   
-  <file path="home/work" name="TARGET.txt" EduSafe="false">
-[viper] Chcę zwrotu pieniędzy.
-[cs#1575] Przykro mi, sir, ale nie możemy zwrócić pieniędzy na podstawie zmiany zdania.
-[cs#1575] Czy mogę zasugerować ponowne umieszczenie tego przedmiotu na J-Bayu?
-[viper] Nie chcę wystawiać przedmiotu na twojej przeklętej stronie aukcyjnej.
-[viper] Mówiłem ci, że przypadkowo nacisnąłem przycisk licytowania zamiast przycisku zegarka
-[cs#1575] Tak mi przykro, sir, ale nasza polityka nie obejmuje przypadkowego naciśnięcia przycisku.
-[cs#1575] Musisz więc zaakceptować, że Penetrator 9000 jest twój, lub możesz spróbować zrekompensować koszty za pomocą naszych list aukcyjnych.
-[viper] Zadarłeś z niewłaściwym klientem. prawię, że będziesz ryczał tego dnia.
-[cs#1575] Dziękuję panu i życzę miłego wieczoru.  
+  <file path="home/work" name="TARGET.txt" >
+[viper] Ich möchte eine Rückerstattung.
+[cs#1575] Es tut mir leid, aber wir können keinen Rückerstattung durchführen, nur weil Sie Ihre Meinung geändert haben.
+[cs#1575] Darf ich vorschlagen, dass Sie den Artikel auf J-Bay wiedereinstellen?
+[viper] Ich möchte meinen Artikel nicht auf ihrer verfluchten Auktionsseite einstellen.
+[viper] Ich habe euch gesagt dass ich ausversehen Bieten statt Beobachten gedrückt habe
+[cs#1575] Es tut mir wirklich leid, aber unsere Versicherung deckt das versehentliche Bieten nicht ab.
+[cs#1575] Somit müssen Sie den Penetrator 9000 wohl behalten. Sie können jedoch versuchen die entstandenen Kosten über unsere Auktionsangebote wieder hereinzuholen.
+[viper] Du hast dich mit dem falschen Kunden angelegt. Du wirst diesen Tag noch bereuen.
+[cs#1575] Viel Dank, ich wünsche Ihnen noch einen angenehmen Abend. 
   </file>
   
-    <file path="home/work" name="ripped_prerelease.log" EduSafe="false">
-[glaylor] ZJEBAŁEŚ TO
-[glaylor] 18 MIESIĘCY DEV TIME'U
-[glaylor] 3 MILIONY DOLARÓW
-[glaylor] DLA GRY O OGLĄDANIU EKRANÓW TELEFONÓW KOMÓRKOWYCH
+    <file path="home/work" name="ripped_prerelease.log" >
+[glaylor] IHR HABTS VERKACKT
+[glaylor] 18 MONATE ENTWICKLUNGSZEIT
+[glaylor] 3 MILLIONEN EURO
+[glaylor] FÜR EIN SPIEL ÜBER HANDYBILDSCHIRME
 [glaylor] ..................
-[glaylor] KUUUUUUUUUUUUUUUUUUUUUURRRWWWWWWWWWW
-[hoops] Whoa, uspokój się człowieku, ludzie będą to kochać.
-[hoops] To jest jak, stwierdzenie, o stanie tego słowa.
-[hoops] Jak na przykład, czy ostatnio przechodziłeś się późno ulicą?
-[hoops] Ludzie zawsze mają zakopane głowy w telefonach, nawet tego nie zauważają.
-[hoops] Więc zrobiliśmy grę, w której ty prowadzisz, chodzisz, strzelasz i hakujesz, ciągle patrząc na ich telefony.
-[hoops] To genialne.
-[glaylor] Zarząd będzie chciał za to moją dupę.
-[glaylor] Lepiej dajmy temu dobrą nazwę.
-[glaylor] I trochę hardcorowych grafik.
-[glaylor] I dodaj trochę kwiecistych efektów. To zawsze przyciąga dzieci.
-  </file>
-  
-  <file path="home/work" name="ripped_prerelease.log" EduSafeOnly="true">
-[glaylor] SPIEPRZYŁEŚ TO
-[glaylor] 18 MONTHS DEV TIME
-[glaylor] 3 MILIONY DOLARÓW
-[glaylor] DLA GRY O OGLĄDANIU EKRANÓW TELEFONÓW KOMÓRKOWYCH
-[glaylor] ..................
-[glaylor] AHHHHHHHHHHHHHHHHHHHHHHHHHHH
-[hoops] Whoa, uspokój się człowieku, ludzie będą to kochać.
-[hoops] To jest jak, stwierdzenie, o stanie tego słowa.
-[hoops] Jak na przykład, czy ostatnio przechodziłeś się późno ulicą?
-[hoops] Ludzie zawsze mają zakopane głowy w telefonach, nawet tego nie zauważają.
-[hoops] Więc zrobiliśmy grę, w której ty prowadzisz, chodzisz, strzelasz i hakujesz, ciągle patrząc na ich telefony.
-[hoops] To genialne.
-[glaylor] Zarząd będzie chciał za to moją dupę.
-[glaylor] Lepiej dajmy temu dobrą nazwę.
-[glaylor] I trochę hardcorowych grafik.
-[glaylor] I dodaj trochę kwiecistych efektów. To zawsze przyciąga dzieci.
+[glaylor] FUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+[hoops] Whoa, komm wieder runter Alter, die Leute werden es lieben
+[hoops] Es ist wie ein Statement über den Zustand unserer Gesellschaft.
+[hoops] Bist du in letzter Zeit mal die Straße entlang gegangen?
+[hoops] Die Leute gaffen die ganze Zeit in ihre Handys, sie merken es schon gar nicht mehr.
+[hoops] Also haben wir ein Spiel gemacht bei dem du fahren, gehen, schießen und hacken kannst während du dein Handy ansiehst.
+[hoops] Es ist genial.
+[glaylor] Der Vorstand wird mir den Arsch aufreißen.
+[glaylor] Wir geben dem Spiel besser einen sehr guten Namen.
+[glaylor] Und ein richtig schickes Cover.
+[glaylor] Und packt schön Blooming rein, die Kids lieben das.
   </file>
   
   <file path="home/work" name="seb.txt" EduSafe="false">
-[viper] Jak poszło?
-[lilsebastian] To był koszmar.
-[viper] Dlaczego?
-[lilsebastian] Spędziliśmy noc na czuwaniu. To było super romantyczne.
-[lilsebastian] Potem zaczęliśmy się śmiać.
-[lilsebastian] Potem zaczęliśmy się wygłupiać, wiesz.
-[lilsebastian] A potem, er...
-[viper] Co?
-[viper] Wyrzuć to z siebie.
-[lilsebastian] To err, zakończyło się wcześniej niż się spodziewałem. Na przykład. Ubrania nadal są włożone jak wcześniej.
+[viper] Wie ist es gelaufen?
+[lilsebastian] Es war furchtbar.
+[viper] Warum?
+[lilsebastian] Wir haben die Nacht im Wachturm verbracht. Es war total romantisch.
+[lilsebastian] Dann haben wir angefangen rumzumachen.
+[lilsebastian] Und dann herumzublödeln, wenn du weißt, was ich meine ;)
+[lilsebastian] Und dann, ja...
+[viper] Was?
+[viper] Spucks aus!
+[lilsebastian] Es...Ehm, ich war früher da. Also, "Hose noch an" früh.
 [viper]......
 [viper]......
 [viper] HAHAHAHAHAHHAHAHAHAHAHHAA
-[lilsebastian] Zamknij się.
-[viper] Stary, Boże stary, nigdy więcej się do tego nie przyznawaj.
-[viper] Masz szczęście, że jesteśmy przyjaciółmi, bo inaczej opowiedziałbym wszystkim tę historię.
-[viper] Tak czy inaczej, muszę iść. Mam więcej kodu do zrobienia. 
-[lisebastian] W porządku. Do zobaczenia jutro w szkole.
-[viper] Nie idź tam za wcześnie. 
+[lilsebastian] Halt die Klappe.
+[viper] Alter, erzähl das niemals jemandem.
+[viper] Du kannst froh sein, dass wir Freunde sind, anderfalls würde ich das jedem erzählen.
+[viper] Wie auch immer, ich muss gehen. Hab noch einiges zu programmieren. 
+[lilsebastian] Alles ok. Sehen uns morgen in der Schule.
+[viper] Komm nicht wieder zu früh. 
   </file>
   
-  <eosDevice name="ePhone 4S Tima">
-    <note>NUMERY PORTÓW
-Przeglądarki internetowe i usługi sieciowe: 80 (8080 czasami?)
-SSH: 22 (####program do tego)
+  <eosDevice name="Tim's ePhone 4S">
+    <note>Port Nummern
+Web Browser and web services: 80 (manchmal 8080?)
+SSH: 22 (####Programm hierfür)
 FTP: 21
 SQL: 1433
     </note>
-    <note>entropia
-jakaś grupa hakerów?
-wydaje się trochę mały i niewiele wiadomości na ich temat?
-Tyle że slashbot ich nienawidzi z jakiegoś powodu?
-„znajdź i pobij nasz serwer testowy” - jak?
-Wiadomość na forum nie ma innych szczegółów?
+    <note>entropy
+eine Art Hackergruppe?
+Scheint relativ klein und unbekannt zu sein?
+Außer, dass Slashbot sie aus irgendeinem Grund hasst?
+"finde und bezwinge unseren Testserver" - wie?
+Nachrichtenforum beinhaltet keine weitere Infos dazu
 
-Może gdzieś być indeksowany? Znajdź rejestr sieci i wyszukaj entropię?
+Vielleicht gibt es irgendwo Aufzeichnungen von ihnen? Finde ne NR und suche nach entropy?
     </note>
     <note>daves
-H22 do stacji Westfield (stop 22)
+H22 nach Westfield st (Haltestelle 22)
 4:25 - 5:12
 4:55 e.30m
     </note>
