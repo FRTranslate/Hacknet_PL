@@ -28,3 +28,7 @@ Opcje lub "wyjdź" w menu w menu głównym w czcionce default
 - Font23
 
 Opcje i napis "rozdzielczość"
+
+- Kremlin.xnb
+
+Czcionka nagłówka w ROZSZERZENIACH
