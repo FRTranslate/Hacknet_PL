@@ -1,7 +1,7 @@
 # Ogólne info
 
 Spolszczenie powstało na bazie gry w wersji 5.069
-
+OBECNIE JEST ZROBIONY POPRAWNIE TYLKO KREMLIN, RESZTA DO NAPRAWY.
 
 # Fonty
 
